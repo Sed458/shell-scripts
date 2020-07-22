@@ -1,0 +1,2 @@
+# GitInit
+Git init automation
