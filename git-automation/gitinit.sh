@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "# GitInit" >> README.md
 git init
 git add .
 
